@@ -18,6 +18,8 @@ namespace CursoCSharp
                 {"Lendo Dados - Fundamentos", ReadingData.Executar},
                 {"Num Format - Fundamentos", NumberFormat.Executar},
                 {"Conversões - Fundamentos", Conversions.Executar},
+                {"Operadores aritméticos- Fundamentos", Operators.Executar},
+                {"Operadores relacionais- Fundamentos", RelOperators.Executar},
                 //{"Pessoas - Classes e metodos", Pessoas},
             });
 
