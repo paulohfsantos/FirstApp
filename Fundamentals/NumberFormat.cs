@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FirstApp.Fundamentos
+namespace FirstApp.Fundamentals
 {
     class NumberFormat
     {

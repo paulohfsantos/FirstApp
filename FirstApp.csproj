@@ -6,4 +6,8 @@
     <StartupObject></StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ControlStructure\" />
+  </ItemGroup>
+
 </Project>

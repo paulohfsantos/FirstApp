@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using FirstApp.Fundamentos;
+using FirstApp.Fundamentals;
 using FirstApp.ClassNMethods;
 
 namespace CursoCSharp
@@ -12,14 +12,20 @@ namespace CursoCSharp
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 //{"Membros - Classes e metodos", Membros.Executar},
                 //{"Membros - Classes e metodos", Construtores.Executar},
-                {"VarNConsts - Fundamentos", VarNConsts.Executar},
-                {"Interpolation - Fundamentos", Interpolation.Executar},
-                {"Notação Ponto - Fundamentos", DotNotation.Executar},
-                {"Lendo Dados - Fundamentos", ReadingData.Executar},
-                {"Num Format - Fundamentos", NumberFormat.Executar},
-                {"Conversões - Fundamentos", Conversions.Executar},
-                {"Operadores aritméticos- Fundamentos", Operators.Executar},
-                {"Operadores relacionais- Fundamentos", RelOperators.Executar},
+                {"VarNConsts - Fundamentals", VarNConsts.Executar},
+                {"Interpolation - Fundamentals", Interpolation.Executar},
+                {"Notação Ponto - Fundamentals", DotNotation.Executar},
+                {"Lendo Dados - Fundamentals", ReadingData.Executar},
+                {"Num Format - Fundamentals", NumberFormat.Executar},
+                {"Conversões - Fundamentals", Conversions.Executar},
+                {"Operadores aritméticos- Fundamentals", Operators.Executar},
+                {"Operadores relacionais - Fundamentals", RelOperators.Executar},
+                {"Operadores Lógicos - Fundamentals", LogicalOperators.Executar},
+                {"Operadores de Atribuição - Fundamentals", AssignmentOperators.Executar},
+                {"Operadores unários - Fundamentals", UnaryOperators.Executar},
+                {"Operador Ternário - Fundamentals", TernaryOperator.Executar},
+                // control structure
+
                 //{"Pessoas - Classes e metodos", Pessoas},
             });
 

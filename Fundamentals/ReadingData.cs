@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace FirstApp.Fundamentos
+namespace FirstApp.Fundamentals
 {
     class ReadingData
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FirstApp.Fundamentos
+namespace FirstApp.Fundamentals
 {
     class DotNotation
     {
